@@ -50,14 +50,14 @@ h2 {
 }
 div {
     padding-left: 1.2%;
-    width: 100px;
-    height: 100px;
-    background-color: lavender;
+    width: 2500px;
+    height: 20px;
+    background-color: purple;
     animation-name: example;
     animation-duration: 4s;
 }
 
 @keyframes example {
-    from {background-color: lavender;}
-    to {background-color: purple;}
+    from {background-color: purple;}
+    to {background-color: lavender;}
 }
