@@ -1,1 +1,0 @@
-# lindsey2005.github.io
