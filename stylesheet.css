@@ -48,3 +48,16 @@ h2 {
     border-width: 4px;
     border-color: darkgreen;
 }
+div {
+    padding-left: 1.2%;
+    width: 100px;
+    height: 100px;
+    background-color: lavender;
+    animation-name: example;
+    animation-duration: 4s;
+}
+
+@keyframes example {
+    from {background-color: lavender;}
+    to {background-color: purple;}
+}
